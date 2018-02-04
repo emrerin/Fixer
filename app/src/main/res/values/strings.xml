@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Fixer</string>
+
+    <string-array name="currencies1">
+        <item name="AUD : Australian Dollar"/>
+        <item name="BGN: Bulgarian Lev"/>
+        <item name="BRL: Brazilian Real"/>
+        <item name="CAD: Canadian Dollar"/>
+        <item name="CHF: Swiss Franc"/>
+        <item name="CNY: Renminbi"/>
+        <item name="CZK: Czech Koruna"/>
+        <item name="DKK: Danish Krone"/>
+        <item name="GBP: Pound Sterling"/>
+        <item name="HKD: Hong Kong Dollar"/>
+        <item name="HRK: Croatian Kuna"/>
+        <item name="HUF: Hungarian Forint"/>
+        <item name="IDR: Indonesian Rupiah"/>
+        <item name="ILS: Israeli New Shekel"/>
+        <item name="INR: Indian Rupee"/>
+        <item name="JPY: Japanese Yen"/>
+        <item name="KRW: South Korean Won"/>
+        <item name="MXN: Mexican Peso"/>
+        <item name="MYR: Malaysian Ringgit"/>
+        <item name="NOK: Norwegian Krone"/>
+        <item name="NZD: New Zealand Dollar"/>
+        <item name="PHP: Philippine Piso"/>
+        <item name="PLN: Polish Zloty"/>
+        <item name="RON: Romanian Leu"/>
+        <item name="RUB: Russian Ruble"/>
+        <item name="SEK: Swedish Krona"/>
+        <item name="SGD: Singapore Dollar"/>
+        <item name="THB: Thai Baht"/>
+        <item name="TRY: Turkish Lira"/>
+        <item name="USD: American Dollar"/>
+        <item name="ZAR: South African Rand"/>
+        <item name="EUR: Euro"/>
+    </string-array>
+</resources>
